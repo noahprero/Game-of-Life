@@ -1,6 +1,8 @@
 # Description
 This custom iteration of John Conway's Game of Life introduces new types of cells, which bring about new and unique patterns that aren't possible in the ordinary game.
 
+https://noahprero.com/life
+
 # Cells
 - Alive cell (black): This is the same cell from the original game. It follows all the basic rules of the Game of Life.
 - Trapper cell (green): When other cells come into contact with the Trapper cell, they freeze in place and become a Trapper as well.
